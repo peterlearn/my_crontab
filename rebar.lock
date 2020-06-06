@@ -1,0 +1,4 @@
+[{<<"upper_otp_stdlib2">>,
+  {git,"https://github.com/peterlearn/upper_otp_stdlib2.git",
+       {ref,"4aecea7c67e7ce76948c12898d500c735ef8e1e5"}},
+  0}].
